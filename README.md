@@ -313,7 +313,6 @@
 - Adaptabilité & agilité  
 - Autonomie & gestion de projet
 
----
 
 ## Contact 
 
