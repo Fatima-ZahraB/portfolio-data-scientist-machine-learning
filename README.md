@@ -38,7 +38,8 @@
 - Rapport d'analyse statistique  
 - Scripts de nettoyage automatisés
   
-**Lien GitHub** : https://github.com/Fatima-ZahraB/P2_analyse_donnees_sys_educatifs
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P2_analyse_donnees_sys_educatifs)
+
 
 ### 🏢 Projet 3 — Anticipez les besoins en consommation de bâtiments
 **Compétences**
@@ -53,7 +54,7 @@
 - Dashboard d'analyse  
 - Documentation technique
 
-**Lien GitHub** : https://github.com/Fatima-ZahraB/P3_predire_consommation_batiments
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P3_predire_consommation_batiments)
 
 ### 🏷️ Projet 4 — Classifiez automatiquement des informations
 **Compétences**
@@ -68,7 +69,7 @@
 - Analyse SHAP complète  
 - Requêtes SQL optimisées
    
-**Lien GitHub** : https://github.com/Fatima-ZahraB/P4_classifier_informations 
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P4_classifier_informations)
 
 ### 🚀 Projet 5 — Déployez un modèle de Machine Learning
 **Compétences**
@@ -84,7 +85,7 @@
 - Pipeline CI/CD automatisé  
 - Documentation Swagger/OpenAPI
 
-**Lien Github** : https://github.com/Fatima-ZahraB/PROJET5 
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/PROJET5)
 
 ### 💳 Projet 6 — MLOps (scoring crédit)
 **Compétences**
@@ -98,7 +99,7 @@
 - Dashboard de suivi MLflow  
 - Modèle de scoring optimisé
 
-**Lien Github** : https://github.com/Fatima-ZahraB/P6_initation_MLOPS 
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P6_initation_MLOPS)
 
 ### 🖼️ Projet 7 — Traitement d'images semi-supervisé
 **Compétences**
@@ -113,7 +114,7 @@
 - Analyse de clustering  
 - Pipeline traitement images
 
-**Lien Github** : https://github.com/Fatima-ZahraB/P7_labellisation_images_medicales 
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P7_labellisation_images_medicales)
 
 ### ⚙️ Projet 8 — MLOps avancé
 **Compétences**
@@ -128,7 +129,7 @@
 - Dashboard de monitoring  
 - Pipeline CI/CD complet
 
-**Lien Github** : https://github.com/Fatima-ZahraB/P8_ApiCreditPrediction 
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P8_ApiCreditPrediction)
 
 ### 🔍 Projet 9 — Système RAG
 **Compétences**
@@ -143,7 +144,7 @@
 - API documentée  
 - Tests unitaires complets
 
-**Lien Github** : https://github.com/Fatima-ZahraB/P9-RAG-CHATBOT 
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P9-RAG-CHATBOT)
 
 ### 📋 Projet 10 — Évaluation LLM avec RAGAS
 **Compétences**
@@ -158,7 +159,7 @@
 - Tool SQL fonctionnel  
 - Analyse comparative complète
 
-**Lien Github** : https://github.com/Fatima-ZahraB/P10_RAG_SportSee
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P10_RAG_SportSee)
 
 ### 🎯 Projet 11 — Cadrage projet IA
 **Compétences business**
@@ -173,7 +174,7 @@
 - Analyse économique  
 - Plan de déploiement
 
-**Lien Github** : https://github.com/Fatima-ZahraB/P11_cadrage_projet_IA 
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P11_cadrage_projet_IA)
 
 ### 🌾 Projet 12 — Système de recommandation agricole
 **Compétences**
@@ -188,7 +189,7 @@
 - API de recommandation  
 - Pipeline MLOps industriel
 
-**Lien Github** : P12 : https://github.com/Fatima-ZahraB/P12_cropyield_prediction
+[**Repository GitHub:**](https://github.com/Fatima-ZahraB/P12_cropyield_prediction)
 
 ---
 
@@ -317,4 +318,4 @@
 ## Contact 
 
 - **Fatima-Zahra BARHOU**
-- **GitHub** : https://github.com/Fatima-ZahraB
+- [**GitHub**](https://github.com/Fatima-ZahraB)
