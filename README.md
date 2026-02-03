@@ -262,6 +262,10 @@
 - **Dash/Plotly** : ⭐⭐⭐☆☆ (Intermédiaire)  
 - **Power BI/Tableau** : ⭐⭐☆☆☆ (Bases)
 
+### 🧠 Carte mentale de mes compétences
+
+![Carte mentale Data Science](images/carte_mentale.jpeg)
+
 ---
 
 ## 🎁 4. Apports de la formation
